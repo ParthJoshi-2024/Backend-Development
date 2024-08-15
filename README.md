@@ -22,34 +22,6 @@ This backend project is constructed using:
 - **Advanced Security**: Employs industry-standard practices for securing user data and ensuring robust access controls.
 - **Scalability**: Designed to handle a growing number of users and video content with ease.
 
-## **Installation**
-
-1. **Clone the Repository**:
-
-    ```bash
-    git clone https://github.com/yourusername/video-hosting-platform-backend.git
-    ```
-
-2. **Navigate to the Project Directory**:
-
-    ```bash
-    cd video-hosting-platform-backend
-    ```
-
-3. **Install Dependencies**:
-
-    ```bash
-    npm install
-    ```
-
-4. **Configure Environment Variables**: Create a `.env` file based on the `.env.example` file and configure the required environment variables.
-
-5. **Start the Server**:
-
-    ```bash
-    npm start
-    ```
-
 ## **API Endpoints**
 
 - **User Management**
@@ -78,14 +50,12 @@ This project is designed for developers who want to build scalable and interacti
 
 We welcome contributions from the community! If you have suggestions, improvements, or bug fixes, please submit a pull request or open an issue.
 
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## **Contact**
 
-For any questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For any questions or feedback, please reach out to [joshiparthjoshi12@gmail.com](mailto:joshiparthjoshi12@gmail.com).
+
+## **Reference**
+
+Hitesh Choudhary || Chai and Code
 
 ---
-
-Feel free to adjust the details according to your specific needs!
