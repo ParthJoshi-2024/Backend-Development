@@ -1,6 +1,4 @@
 
----
-
 # **Video Hosting Platform Backend**
 
 Welcome to the Video Hosting Platform Backend! This project is a comprehensive backend solution designed to support a feature-rich video hosting website, similar to YouTube. Built with cutting-edge technologies and standard industry practices, this project showcases advanced backend development techniques and is an excellent learning resource.
