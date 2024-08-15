@@ -1,4 +1,3 @@
-Here's an attractive and industry-friendly README file for your backend project:
 
 ---
 
