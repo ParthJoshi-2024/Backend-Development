@@ -1,0 +1,17 @@
+Hey, welcome to the third backend project.
+In this project we learn about how to do the data modelling.
+Here we learn only about the data modelling, not connect with the database.
+Using mongoose for the data modelling.
+Notes- 
+    1. It is a best practise to define all the todos in a separate directory.
+    2. The naming way for the models is - modelName.models.js
+    3. The models will only be created when we export them.
+    4. Basic syntax to create any model using the mongoose is - 
+        import mongoose from "mongoose"
+        const userSchema = new mongoose.Schema({define the object schema here}, {timestamps:true})
+        export const user = mongoose.model("modelName", userSchema)
+    5. In the syntax the timestamps is used to get the track of the created date and updated date both.
+    6. The object in the schema will be created as per the requirement, we can add/remove the properties there.
+    7. If we want to take the type of any schema's object from any other model then we use the below syntax - 
+        type: mongoose.Schema.Types.ObjectId
+        ref: "modelName"
