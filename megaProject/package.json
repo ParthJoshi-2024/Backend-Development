@@ -1,0 +1,19 @@
+{
+  "name": "megaproject",
+  "version": "1.0.0",
+  "description": "a backend project ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon scr/index.js"
+  },
+  "keywords": [
+    "js",
+    "backend",
+    "node"
+  ],
+  "author": "\"Parth Joshi\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
